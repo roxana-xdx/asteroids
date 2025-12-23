@@ -1,0 +1,1 @@
+Second Boot.dev project: a Python-based video game inspired by the classic Asteroids arcade game, whose main purpose is to practice OOP concepts.
